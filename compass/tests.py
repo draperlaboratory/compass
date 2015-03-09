@@ -2,8 +2,10 @@
 # encoding: utf-8
 
 import unittest
-from client import *
 import random
+
+from compass.client import *
+
 
 username = 'root'
 password = 'AFE1D46E7A5FC722CBD5821644B03BD57CC782B7A1585D438A0414CE0B8DE73D'

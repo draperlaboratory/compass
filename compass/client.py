@@ -5,7 +5,8 @@
 import urllib
 import json
 
-from request import Request
+from compass.request import Request
+
 
 RECORD_ID = '@rid'
 ADMIN = ('admin', 'admin')
